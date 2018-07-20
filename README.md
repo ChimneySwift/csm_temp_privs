@@ -12,6 +12,7 @@ Temporarily revoke privs:
 Each time is comprised of a number followed by a letter. The letter signifies a multiplyer to the number.
 
 Available letters:
+
 | Letter | Time    |
 |--------|---------|
 | s      | seconds |
