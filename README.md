@@ -13,6 +13,7 @@ Each time is comprised of a number followed by a letter. The letter signifies a 
 
 Available letters:
 
+
 | Letter | Time    |
 |--------|---------|
 | s      | seconds |
@@ -24,9 +25,14 @@ Available letters:
 | Y      | years   |
 
 Examples:
+
+
 10s - 10 seconds
+
 5m - 5 minutes
+
 1h - 1 hour
+
 5Y - 5 years
 
 ## Limitations
